@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="10" useXmlUI="false">
+    <ui name="Filtrage" />
+    <image name="images.jpg"  />
+    <image name="slider.jpg"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+    </theme>
+    <image name="t&#xe9;l&#xe9;chargement.jpg"  />
+</resource>
